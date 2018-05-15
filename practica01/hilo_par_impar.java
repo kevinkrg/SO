@@ -1,8 +1,5 @@
 package practica01;
 
-import java.util.Random;
-import java.util.Scanner;
-
 public class hilo_par_impar extends Thread {
 
 	int n;

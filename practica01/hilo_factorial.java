@@ -1,7 +1,5 @@
 package practica01;
 
-import java.util.Scanner;
-
 public class hilo_factorial extends Thread {
 
 	int n;
